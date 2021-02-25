@@ -38,7 +38,7 @@ class PerguntaApp extends StatelessWidget {
             ),
             RaisedButton(
               child: Text("Resposta 3"),
-              onPressed: () => print("Resposta 03 escolhida!"),
+              onPressed: () => print("Resposta 03!"),
             ),
           ],
         ),

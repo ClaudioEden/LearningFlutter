@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Um novo projeto em Dart, usando o framework Flutter.
 
 ## Getting Started
 

@@ -1,6 +1,7 @@
-# projeto_perguntas
+# Aprendendo FLUTTER 
+## projeto_perguntas
 
-Um novo projeto em Dart, usando o framework Flutter.
+Um novo projeto em Dart, usando o framework Flutter a partir das aulas do curso "Flutter e Dart - Aprenda e Construa APP iOS e Android 2020" com Leonardo Moura Leitao (Udemy).
 
 ## Getting Started
 
